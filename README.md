@@ -176,3 +176,7 @@ Zu den wesentlichen Bestandteilen gehörten:
 - Der Betrieb unter Debian-LXC auf Proxmox ohne Docker
 
 Das Projekt umfasste damit nicht nur die Einrichtung einzelner Dienste, sondern auch die Integration mehrerer Anwendungen, die Verwaltung gemeinsamer Speicherpfade sowie die Entwicklung zusätzlicher Automatisierung für Aufgaben, die mit den vorhandenen Weboberflächen allein nicht zuverlässig abgedeckt waren.
+
+## Hinweis zur rechtmäßigen Nutzung
+
+Der beschriebene Stack wurde ausschließlich zum Herunterladen und Verwalten von Inhalten verwendet, für die eine entsprechende Berechtigung vorlag. Die eingesetzten Dienste dienen der technischen Medienverwaltung und Automatisierung. Das Herunterladen und Verbreiten urheberrechtlich geschützter Inhalte ohne die erforderlichen Rechte war nicht Zweck dieses Projekts.
